@@ -55,7 +55,6 @@ sudah masuk `.gitignore`, jadi tidak ikut ter-push.
 | `game_tools.py` | `GameState`, mesin dadu, tools, dan klien SRD API |
 | `dm_agent.py` | Parameter kreatif, system prompt, dan pembuatan agent |
 | `app.py` | Tampilan Streamlit |
-| `tests/test_game_tools.py` | Unit test mekanik permainan, jalankan dengan `pytest -q` |
 
 ## Lisensi dan atribusi
 
