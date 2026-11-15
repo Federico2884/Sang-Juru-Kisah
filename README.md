@@ -57,14 +57,6 @@ sudah masuk `.gitignore`, jadi tidak ikut ter-push.
 | `app.py` | Tampilan Streamlit |
 | `tests/test_game_tools.py` | Unit test mekanik permainan, jalankan dengan `pytest -q` |
 
-## Screenshots
-
-Simpan screenshot di `docs/screenshots/`.
-
-| Pembukaan | Ability check | Combat |
-|---|---|---|
-| ![opening](docs/screenshots/01-opening.png) | ![check](docs/screenshots/02-ability-check.png) | ![combat](docs/screenshots/03-combat.png) |
-
 ## Lisensi dan atribusi
 
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by
